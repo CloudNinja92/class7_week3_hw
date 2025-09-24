@@ -1,0 +1,3 @@
+dream country: Romania
+salary: $250K per year
+city: Brasov
